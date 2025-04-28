@@ -1,0 +1,87 @@
+ESTUDIANTE: HERLAN MAURICIO CERRUTO SALAZAR
+CI: 10954648
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AutoFast</title>
+    <link rel="stylesheet" href="estilos.css">
+    
+    
+</head>
+<body>
+    
+    <header class="header">
+        <div class="menu container">
+            <a href="#" class="logo">Logo</a>
+            <input type="checkbox" id="menu">
+            <label for="menu">
+                <img src="bmw.jpg" class="menu-icono" alt="">
+            </label>
+            <nav class="navbar">
+                <ul>
+                    <li><a href="#marcas">Marcas</a></li>
+                    <li><a href="#precios">Precios</a></li>
+                    <li><a href="#tipo">Tipos</a></li>
+                    <li><a href="#contactos">Contactos</a></li>
+                </ul>
+
+            </nav>
+        </div>
+        <div class="header-contenido container">
+            <div class="header-txt">
+                <h1>AutoFast</h1>
+                <span>Autos, SUVS y Camionetas </span>
+                <p>
+                    Pagina dedicada para recibir imformacion acerca de Autos.
+                    Informacion como precios de los distintos tipos de autos.
+                    Informacion acerca de cada marca de automoviles, aparte de 
+                    estadisticas de estos mismos.
+
+                </p>
+                
+
+            </div>
+            <div class="header-dir">
+                <div class="dir">
+                    <h3>Direccion</h3>
+                    <p>Bolivia-Av.Arce Nro.2609</p>
+
+                </div>
+                <div class="dir">
+                    <h3>Telefono</h3>
+                    <p>89876654</p>
+
+                </div>
+                <div class="dir">
+                    <h3>Horarios</h3>
+                    <p>9am - 9pm</p>
+
+                </div>
+                
+
+            </div>
+           
+
+        </div>
+    </header>
+
+    
+    <footer>
+       
+        <div class="footer-txt">
+
+                <p>© 2024 AutoFast. Todos los derechos reservados.</p>
+
+
+                <p>¡Gracias por visitarnos! Estamos aquí para ayudarte a encontrar el auto perfecto.   
+            </p>
+
+        </div>
+    </footer>
+
+</body>
+</html>
